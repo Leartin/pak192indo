@@ -1,0 +1,30 @@
+################################################################################
+#                       PAK192.INDO Based PAK192.COMIC                         #
+################################################################################
+#         !!! I M P O R T A N T !!! ---  !!!P E R I N G A T A N!!!             #
+#                                                                              #
+# English:                                                                     #
+#  Please note that changes to this file errors in the conduct of the game can #
+#  occur. Modify data only if they are absolutely sure that they know what     #
+#  impact these changes have!                                                  #
+#                                                                              #
+# Indonesia : ( with saveral changes and adding )                              #
+#  Perhatian, melakukan modifikasi pada file ini dapat menimbulkan Bug, Error  #
+#  dan Glitch. Ubah Nilai yang kalian tahu akan perubahannya pada game.        #
+#  Kami tidak bertanggung jawab atas kerusakan atau error yang ditimbulkan.    #
+#                                                                              #
+#                                                                              #
+#   When you make changes in this file please remember that when you make a    #
+#                       bug report in Simutrans Forum!                         #
+################################################################################
+
+# Private car ownership over different years. The numbers other than years are
+# percentages, and should be integers (i.e., no decimal point). 
+#
+# Menggunakan Data dari Badan Pusat Statistik Indonesia tahun 2015 Dan Ane Kalkulasi Ulang
+# Merupakan data Fiksi dan Tidak dapat di pertanggungjawabkan
+# KHUSUS Untuk Indonesia!!
+#
+# Author: Rengga Prakoso Nugroho ( vzrenggamani )
+
+car_ownership=2012,400,2014,560,2015,722,2016,850,2017,1000,2018,1200,2019,30000,2020,800

@@ -1,0 +1,57 @@
+Meulaboh
+Medan
+Sibolga
+Pekanbaru
+Padang
+Jambi
+Tanjung pinang
+Palembang
+Bengkulu
+Tanjung Karang
+Pangkal Pinang
+Tanjung Pandar
+Jakarta
+Bandung
+Semarang
+Yogyakarta
+Surabaya
+Pontianak
+Ketapang
+Sampit
+Palangkaraya
+Banjarmasin
+Balikpapan
+Samarinda
+Denpasar
+Mataram
+Sumbawa Besar
+Raba
+Reo
+Waikelo
+Waingpu
+Maumere
+Kupang
+Palu
+Makassar
+Luwuk
+Gorontalo
+Manado
+Kendari
+Sanana
+Soasiu
+Tahuma
+Esang
+Namlea
+Tepa
+Ambon
+Bandaneira
+Tepa
+Dobo
+Sorong
+Fakfak
+Kaimana
+Manukwari
+Jayapura
+Merauke
+#### INDONESIA CITYLIST - BIG CITY ###
+#### CREATED BY : VZRENGGAMANI - Rengga Prakoso ####
