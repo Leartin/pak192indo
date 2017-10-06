@@ -1,4 +1,5 @@
-# PAK192.INDO Repos [![CodeFactor](https://www.codefactor.io/repository/github/vzrenggamani/pak192indo/badge/develop)](https://www.codefactor.io/repository/github/vzrenggamani/pak192indo/overview/develop)
+
+# PAK192.INDO Repos [![CodeFactor](https://www.codefactor.io/repository/github/vzrenggamani/pak192indo/badge/master)](https://www.codefactor.io/repository/github/vzrenggamani/pak192indo/overview/master)
 
 ## 1. About
 
