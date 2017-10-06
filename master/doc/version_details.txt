@@ -1,0 +1,25 @@
+Pak192.indo dibagi menjadi 5 Versi, Yaitu Nightly, Beta, Developer, Public
+
+Penjelasan :
+
+Nightly :
+Pak192.indo versi Nightly adalah versi paling tidak stabil, tidak aman dan tidak direkomendasikan
+untuk digunakan dalam sehari - hari atau project pembuatan Map atau Addons
+Versi ini di update setiap hari mengikuti perkembangan Simutrans Nightly
+Versi ini Tidak tersedia di manapun.
+
+Beta :
+Pak192.indo Versi beta merupakan versi yang lumayan stabil dan sangat di rekomdasikan bagi para "GEEK Pakset"
+tetapi pakset ini tidak di digunakan dalam sehari - hari atau project Pembuatan Addons atau Map
+Versi ini di update sesekali mengikuti perkembangan dari Versi Nightly dan permintaan Developer
+Versi ini Tertutup Untuk UMUM
+
+Developer :
+Pak192.indo Versi Developer merupakan versi yang Stabil dan Cocok digunakan oleh developer Addons
+tetapi pakset ini tidak digunakan dalam Project Pembuatan Map
+Versi ini Tersedia untuk Developer dan Beta
+
+Public :
+Pak192.indo Versi Public adalah versi yang paling stabil dan cocok digunakan untuk umum
+Versi ini cocok digunakan sehari - hari dan pembuatan Project besar
+versi ini tersedia secara Umum dan dapat di unduh di dalam Group

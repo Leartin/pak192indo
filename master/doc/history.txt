@@ -1,0 +1,21 @@
+Release 0.1.9d ( Revisi 214 Pada tanggal 6 Juli 2016 )
+	ADD : Beberapa Addons Indonesia ( Dump Process )
+	FIX : Penyesuaian Konfigurasi menurut simutrans Nightly 120.1.4 (rr7847)
+	RMV : Menghilangkan Object pak192.comic yang tidak digunkan (Building , Vahicle , dll)
+	FIX : Terjemahan Indonesia Menyesuaikan peraturan yang ada di Forums
+	CHG : THIS VERSION BELONG TO DEVELOPERS
+	
+Release 0.1.3b ( Revisi 129 pada tanggal 8 Februari 2016 )
+	ADD : Penambahan Addons Indonesia ( Suneo , Mikhael , Vesa )
+	FIX : Terjemahan Indonessia Non Baku
+	FIX : Scenario "Everyone Can Play" Tidak kompatible pada Simutrans versi 120.1.3: (r7753)
+	FIX : Penyesuaian Konfigurasi menurut Simutrans Versi r7753
+
+Release 0.1.2a	( Revisi 120 pada tanggal 4 Januari 2016 )
+	ADD : Penambahan Scenario "Everyone Can Play" ( vzrenggamani )
+	ADD : Beberapa Translate Indonesia ( Riyantama , Satria , Vesa dll )
+	CHG : Perubahan pada File Konfigurasi 
+	RMV	: Beberapa Object pak192.comic ( Kendaraan )
+	
+Release 0.0.1 ( Versi Pribadi ) Tanggal Tak Tersedia
+	ADD : Penambahan Addons Indonesia

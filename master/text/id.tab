@@ -1,0 +1,365 @@
+#____________________________________bridge_____________________________________
+#____________________________________bridge_____________________________________
+Jembatan1
+Jembatan Rel
+concrete_bridge_high_speed
+Jembatan Rel beton
+Holzbruecke_narrowgauge
+Jembatan Kayu
+Steinbruecke_narrowgauge
+Jembatan Beton
+#___________________________________building____________________________________
+#___________________________________building____________________________________
+road_busstop1947small
+Halte kecil
+road_busstop1947small_post
+Halte kecil ( Tersedia surat )
+Garasi
+Garasi
+road_busstop2001small
+Halte Kecil
+road_busstop2001medium
+Halte Sedang
+road_busstop2001medium_post
+Halte sedang ( Tersedia Surat )
+road_busbahnhof
+Halte Dua sisi
+Peron
+Peron Kanopi sisi
+Peron Aspal 1
+Peron Aspal Non Kanopi
+Peron Aspal 2
+Peron Aspal dua sisi non Kanopi
+Peron Aspal Beratap
+Peron aspal beratap
+Peron Flyover Juanda
+Peron Sisi
+Peron Aspal Cross
+Peron Aspal Rendah
+station_narrowgauge_Bahnsteig_2001_1
+Stasiun
+station_narrowgauge_Bahnsteig_2002_2
+Stasiun
+narrowgauge_station_good_easy
+Stasiun Barang
+water_station_anleger_beton
+Pelabuhan Kapal
+dock_easy
+Pelabuhan kapal barang
+apron2
+Apron
+indonesian_mediumstation1991
+Stasiun Indonesia ( Perum KA )
+indonesian_mediumstation2011
+Stasiun Indonesia ( Pt. KAI )
+indonesian_largestation1995
+Stasiun Indonesia ( Perum KA )
+indonesian_largestation2011
+Stasiun Indonesia ( Pt. KAI )
+indonesia_largestation_edge1995
+Stasiun Indonesia ( Perum KA )
+indonesia_largestation_edge2011
+Stasiun Indonesia ( Pt. KAI )
+indonesia_largestation_entrancedoor1995
+Stasiun Indonesia Pintu Masuk ( Perum KA )
+indonesia_largestation_entrancedoor2011
+Stasiun Indonesia Pintu Masuk ( Pt. KAI )
+indonesian_warehouse1991
+Gudang Stasiun ( Perum KA )
+indonesian_warehouse2011
+Gudang Stasiun ( Pt. KAI )
+indonesia_smallstation1991
+Stasiun Indonesia ( Perum KA )
+indonesia_smallstation2011
+Stasiun Indonesia ( Pt. KAI )
+indonesia_terminal2014
+Terminal Bus Indonesia
+indonesia_terminal2015
+Terminal Bus Indonesia
+electro_tunnel
+Kabel Listrik Bawah tanah
+Mosque of Al-Qithaar
+Masjid Al-Qithaar
+Ulun_Danu_Batur
+Ulun danu batur
+#____________________________________citycar____________________________________
+#____________________________________citycar____________________________________
+volkswagent2_blau
+Mobil Biru
+volkswagent2_grau
+Mobil Hijau
+#__________________________________dummy_info___________________________________
+#__________________________________dummy_info___________________________________
+
+#____________________________________factory____________________________________
+#____________________________________factory____________________________________
+
+#_____________________________________good______________________________________
+#_____________________________________good______________________________________
+beer
+Bir
+berries
+Beri
+board
+Papan
+cars
+Mobil
+car_parts
+cattle
+cattle
+cement
+Semen
+chemicals
+Bahan Kimia
+coal
+Batubara
+coins
+Koin
+convicts
+convicts
+dairy
+dairy
+fiber
+Fiber
+flour
+Tepung
+Fuel
+BahanBakar
+glass
+Kaca
+gold
+Emas
+grain
+Grain
+gravel
+Gravel
+icecream
+Es Krim
+juice
+Jus
+logs
+Batang Kayu
+meat
+Daging
+milk
+Susu
+None
+Tidak ada
+notes
+Catatan
+oil
+Minyak
+ore
+ore
+Passagiere
+Penumpang
+plastics
+Plastik
+Post
+Pos
+sand
+Pasir
+steel
+Besi
+suspect
+Tersangka
+textiles
+Tekstil
+toys
+Mainan
+vine
+Vine
+#__________________________________ground_obj___________________________________
+#__________________________________ground_obj___________________________________
+stone_00
+Batu
+stone_01
+Batu
+stone_02
+Batu
+stone_03
+Batu
+stone_04
+Batu
+stone_05
+Batu
+stone_06
+Batu
+stone_07
+Batu
+stone_08
+Batu
+stone_09
+Batu
+stone_10
+Batu
+stone_11
+Batu
+stone_12
+Batu
+stone_13
+Batu
+stone_14
+Batu
+stone_15
+Batu
+#___________________________________menu_text___________________________________
+#___________________________________menu_text___________________________________
+
+#__________________________________pedestrian___________________________________
+#__________________________________pedestrian___________________________________
+pedestarian_01
+Suneo Wahyu
+pedestarian_02
+Bima Fals
+pedestarian_03
+Sharon Excelli
+pedestarian_04
+Mirza
+pedestarian_1
+Raihan Agasta
+pedestarian_10
+Rahmat Wicaksono
+pedestarian_11
+Satria Naai'il
+pedestarian_12
+Thomas Septian
+pedestarian_2
+Riyantama Wira
+pedestarian_3
+Rengga Prakoso
+pedestarian_4
+Rizky Muhammad
+pedestarian_5
+Mikhael Theofilus
+pedestarian_6
+Neyzard Alby
+pedestarian_7
+Alan Damar
+pedestarian_8
+Vesa Hansa
+pedestarian_9
+Fajar Rohadi
+#_________________________________program_text__________________________________
+#_________________________________program_text__________________________________
+CATEGORY_01
+Berang Picisan
+CATEGORY_02
+Barang Satuan
+CATEGORY_03
+Minyak/Bahan bakar
+CATEGORY_04  
+Barang Beku
+CATEGORY_05
+Makanan
+CATEGORY_06
+Kayu
+CATEGORY_07
+Produk Perkebunan / Lahan
+TrolleyBus_tab
+Trem
+#___________________________________roadsign____________________________________
+#___________________________________roadsign____________________________________
+road_min-speed-80
+Rambu Kecepatan minimum 80Km/high_street
+traffic_light
+Rambu lalulintas
+road_singleway
+Jalan satu arah
+privateroad
+Jalanan pribadi
+road_auswahl2
+Rambu memilih pemberhentian
+Sinyal Block
+Sinyal Blok
+Sinyal Keluar
+Sinyal Keluar
+Sinyal Keluar Mekanik
+Sinyal Keluar Mekanik
+Sinyal Keluar1
+Sinyal Keluar
+Sinyal Keluar2
+Sinyal Keluar
+Sinyal Langsir
+Sinyal Langsir
+Sinyal Masuk
+Sinyal Masuk mekanik
+Sinyal Masuk Mekanik
+Sinyal muka mekanik
+Sinyal Muka mekanik
+Sinyal Repeater Aspek Hijau
+Sinyal Repeater Aspek Hijau
+Sinyal Repeater Aspek Kuning
+Presignal
+Presinyal
+signal_way
+Rambu Pemilih lajur pemberhentian
+signal_way_end
+Sinyal Bukan lajur Pemberhentian
+singleway_air
+Lajur satu arah
+#_____________________________________tree______________________________________
+#_____________________________________tree______________________________________
+192tree01
+Pohon
+192tree02
+Pohon
+192tree03
+Pohon
+192tree04
+Pohon
+192tree05
+Pohon
+LDtree01
+Pohon
+TanneA
+Tanaman
+TanneAb
+Tanaman
+TanneB
+TanneBb
+Tanaman
+#____________________________________tunnel_____________________________________
+#____________________________________tunnel_____________________________________
+RoadTunnel_1
+Terowongan 
+trackTunnel_1
+Terowongan Rel kereta
+NarrowgaugeTunnel_1
+#____________________________________vehicle____________________________________
+#____________________________________vehicle____________________________________
+
+#______________________________________way______________________________________
+#______________________________________way______________________________________
+cobblestreet
+Jalan paving
+lokal_road
+Jalan lokal
+asphalt_road
+Jalan beraspal
+highway
+Jalan raya
+road_highway
+Jalan Utama
+high_street
+Jalan layang
+Indonesia Railway Track
+Rel Indonesia
+high_track
+Rel Layang
+Tranjakarta Busway
+Lajur Khusus Bus
+narrowgauge_track_fast
+Rel Sempit 90KM/h
+channel
+Sungai Kapal
+taxiway2
+Taxiway
+runway2
+Landasan Pacu
+#__________________________________way-object___________________________________
+#__________________________________way-object___________________________________
+light
+Penerangan jalan umum
+oberleitung_narrowgauge
+LAA Narrowgauge
