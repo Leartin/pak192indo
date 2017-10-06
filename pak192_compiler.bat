@@ -15,6 +15,9 @@ attrib +H rar.exe
 attrib +R +H master
 attrib +R +H developerdoc
 attrib +R +H release
+
+git pull
+
 if not exist .\makeobj.exe (
 
     echo makeobj.exe doesn't exist
