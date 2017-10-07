@@ -1,0 +1,32 @@
+************************************************************
+
+次のファイルはHaru氏の作品です。
+The following sound files are created by Haru.
+
+ aircraft-start-jet-h1.wav
+ aircraft-start-propeller-h1.wav
+ engine-start-diesel-h01.wav
+ engine-start-diesel-h02.wav
+ engine-start-diesel-h03.wav
+ train-horn-shinkansen-h01.wav
+ train-start-diesel-h01.wav
+ train-start-electric-h01.wav
+ train-start-electric-h02_1.wav
+ train-start-electric-h02_2.wav
+ train-start-electric-h02_3.wav
+ train-start-electric-h03.wav
+ train-start-electric-h04.wav
+ train-start-electric-h05.wav
+
+************************************************************
+
+次のファイルはeyra氏の作品にyoshiが変更（長さの短縮）を加えたものです。
+The following file is created by eyra and modified (shortened) by yoshi.
+
+ crossing.wav
+
+下のURLで公開されています。
+Available at
+ http://www.soundoffice.com/
+
+************************************************************

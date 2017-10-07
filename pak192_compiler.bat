@@ -71,9 +71,10 @@ if not exist .\makeobj.exe (
                 rem COMPILING OBJECT
                 echo Compiling Misc Object
                 makeobj DEBUG pak192 release/ master/goods/*.dat >>release/log/goods.log
-                makeobj DEBUG pak192 release/ master/Misc/misc.dat >>release/log/misc.log
-                makeobj DEBUG pak128 release/ master/Misc/logo.dat >>release/log/logo.log
-                makeobj DEBUG pak192 release/ master/Misc/halfheight/*.dat >>release/log/halfheight.log
+                makeobj DEBUG pak192 release/ master/misc/misc.dat >>release/log/misc.log
+                makeobj DEBUG pak128 release/ master/misc/logo.dat >>release/log/logo.log
+                makeobj DEBUG pak192 release/ master/misc/halfheight/*.dat >>release/log/halfheight.log
+                makeobj DEBUG pak192 release/ master/misc/outside.dat >>release/log/outside.log
                 goto compile
             ) else (
                 if not exist release/log/signals.log (
